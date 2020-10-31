@@ -33,5 +33,5 @@ Materi berupa Power Point presentation setiap perkuliahan dapat diakses pada lin
 
 ## Recorded Session
 
-Rekaman setiap perkuliahan dapat diakses pada link <a href="bit.ly/marBelajar">ini</a>. Untuk dapat mengakses rekaman setiap sesi, diperlukan login akun Office 365.
+Rekaman setiap perkuliahan dapat diakses pada link <a href="bit.ly/mariBelajar">ini</a>. Untuk dapat mengakses rekaman setiap sesi, diperlukan login akun Office 365.
 
