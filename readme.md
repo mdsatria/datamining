@@ -13,6 +13,7 @@ Ini adalah repositori materi Data Mining.
 - [Guide](#guide)
 - [Materi](#materi)
 - [Recorded Session](#recorded-session)
+- [Sklearn Cheat Sheet](#sklearn-cheat-sheet)
 
 ## Requirement
 
@@ -36,3 +37,6 @@ Materi berupa Power Point presentation setiap perkuliahan dapat diakses pada lin
 Rekaman setiap perkuliahan dapat diakses pada OneDrive berikut : (https://bit.ly/mariBelajar).
 Untuk dapat mengakses rekaman setiap sesi, diperlukan login akun Office 365.
 
+## Sklearn Cheat Sheet
+
+<a href="https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html"><img src="https://scikit-learn.org/stable/_static/ml_map.png" align="left" width="600"></a>
