@@ -1,4 +1,4 @@
-﻿outlook,temp,humidity,windy,play
+﻿outlook,temp,humidity,windy,Decision
 Overcast,Hot,High,FALSE,Yes
 Overcast,Cool,Normal,TRUE,Yes
 Overcast,Mild,High,TRUE,Yes
